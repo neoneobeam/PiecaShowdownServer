@@ -1,4 +1,4 @@
-Pokémon Showdown
+Pokémon Showdown (Fan Clone of the server, this file is mostly from the og repo)
 ========================================================================
 
 Navigation: [Website][1] | **Server repository** | [Client repository][2] | [Dex repository][3]
