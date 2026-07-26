@@ -6186,6 +6186,12 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		isNonstandard: "CAP",
 		tier: "CAP",
 	},
+	spiny: {
+		tier: "LC",
+	},
+	dop: {
+		tier: "LC",
+	},
 	pokestarsmeargle: {
 		isNonstandard: "Custom",
 		tier: "Illegal",

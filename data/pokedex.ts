@@ -20750,6 +20750,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 		gen: 9,
 	},
+spiny:{num:10060,name:"Spiny",types:["Steel"],baseStats:{hp:50,atk:50,def:100,spa:30,spd:80,spe:20},abilities:{"0":"Shell Armor",H:"Iron Barbs"},heightm:0.6,weightkg:24,evos:["Lakitu"],tags:["Mariomon"],eggGroups:["Mariomon"],tier:"Illegal",doublesTier:"Illegal",gen:9,isNonstandard:"Custom",natDexTier:"Illegal"},
+dop:{num:10061,name:"Dop",types:["Grass","Electric"],baseStats:{hp:98,atk:48,def:98,spa:118,spd:98,spe:68},abilities:{"0":"Static",H:"Iron Barbs"},heightm:0.6,weightkg:24,tier:"Illegal",doublesTier:"Illegal",gen:9,isNonstandard:"Custom",natDexTier:"Illegal"},
 	// NOTE: PokeStar "formes" are not actually formes and thus do not have a formeOrder
 	pokestarsmeargle: {
 		num: -5000,
