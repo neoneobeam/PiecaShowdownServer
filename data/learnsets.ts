@@ -100491,4 +100491,4198 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			{generation: 5, level: 47, moves: ["darkpulse", "flamethrower", "hyperbeam", "icebeam"]},
 		],
 	},
+	piecaphausque: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulaphausque: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecafaundevill: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulafaundevill: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecavinokisa: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulavinokisa: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaponitz: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulaponitz: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapegarn: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulapegarn: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaigknight: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulaigknight: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakelpine: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulakelpine: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacalpine: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulacalpine: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaspiripie: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulaspiripie: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagarbager: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabasuranda: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawoofee: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabuzzark: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabeowiking: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaflikar: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasoloar: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaphelios: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanfomantis: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanlurantis: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacristivity: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacranogami: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecansentret: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanfurret: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaazurret: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecalillithan: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacirviathan: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaocelody: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecalapras: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecanaturalcymant: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaenhancedcymant: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecainkapho: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecafemininelaspphian: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamasculinelaspphian: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanpansage: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacatasage: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanpansear: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacatasear: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanpanpour: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacatapour: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanweedle: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecankakuna: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanbeedrill: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasporgi: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulasporgi: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapuppeshroom: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulapuppeshroom: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecafinko: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecavulppet: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaarpine: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaallett: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecachicktryon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaalectrooster: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanelectrike: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanmanectric: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecahaderiker: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamarti: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamartirlo: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamartirlorgin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagolite: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulagolite: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagolearth: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulagolearth: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamarid: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagrenora: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacarnidel: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacadarc: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecatemplight: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecalarvup: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapupat: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawyrcolat: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasableye: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamegasableye: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecashacula: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamawile: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamegamawile: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaounimaw: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacarbink: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabloomingcarbink: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaarmedishink: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadisarmedishink: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanlitten: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecantorracat: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanincineroar: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecafiguliln: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaclayceraplea: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaporcelainceraplea: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaclaypotleakeist: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaporcelainpotleakeist: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasteelgolave: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacoppergolave: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaobelune: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulaobelune: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadraconicswog: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecatartswog: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulaswog: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadraconicfobreago: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecatartfobreago: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulafobreago: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadraconicanurigo: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecatartanurigo: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulaanurigo: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadragonsflametaranarach: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecafillingtaranarach: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulataranarach: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecancutiefly: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanribombee: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasolca: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulasolca: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanseel: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecandewgong: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamerluga: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecaninkay: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanmalamar: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanpopplio: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanbrionne: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanprimarina: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecahiddenelegarin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaoutwardelegarin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaruinedelegarin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecachatot: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaparrony: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakitling: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakrawsher: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagilos: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecahelasus: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagilosus: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaarppy: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecahowlra: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanheatmor: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecandurant: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaterropper: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanchikorita: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanbayleef: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanmeganium: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecancyndaquil: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanquilava: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecantyphlosion: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecantotodile: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecancroconaw: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanferaligatr: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecancomfey: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecafeylecrior: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaatroplin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaatrobella: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabershie: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabanshie: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapoppart: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecahelyre: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaperenoral: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasunshu: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanrowlet: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecandartrix: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecandecidueye: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaballeroll: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulaballeroll: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaminstrette: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulaminstrette: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecatinalf: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaminorinth: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadrana: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadezoa: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanfalinks: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaanarcoln: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapetricoln: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanskarmory: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasolothermaline: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasocialthermaline: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaflamebornesiffon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamoonbornesiffon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecatoxinbornesiffon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanspiritomb: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaboundspiritomb: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaunboundspiritomb: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecafenrilok: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecajormulok: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecahellok: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacalios: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaaquias: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecansprigatito: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanfloragato: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanmeowscarada: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanfennekin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanbraixen: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecandelphox: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecansobble: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecandrizzile: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecaninteleon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamikeo: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamikima: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawinneon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecalullineon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaserenadeon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecanolorm: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaencyclyrm: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaarachey: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaslingkey: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecastringcoveredtarountula: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasilklesstarountula: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaspidops: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapirow: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacrookat: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapichu: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanpikachu: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapairochu: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecajellat: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakittish: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapurrarb: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecashoveltoppedsandygast: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaspadelesssandygast: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecashoveltoppedpalossand: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaspadelesspalossand: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacroconut: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapalmadile: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacuddlish: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulacuddlish: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecatriken: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasharrain: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecajohtoniancorsola: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagalariancorsola: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacursola: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakimonosoma: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecafurisomata: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanskrelp: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecandragalge: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaglaudrazent: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadewpider: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaaraquanid: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecathisilet: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecathisiper: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapalengeer: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanshuckle: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecahunishuckle: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaplatula: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaalgentpae: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasparriff: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagacoo: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakangaskhan: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamegakangaskhan: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagirafarig: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakamilimak: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamarros: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulamarros: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamarshai: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecathroh: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasawk: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakhic: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaarapitter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacrutula: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadragybara: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasuladragybara: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapifaullita: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagrimossom: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecainsidister: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanchespin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanquilladin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanchesnaught: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecainappleapplin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaapploutapplin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaapplewingedflapple: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagroundedflapple: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecazilaloar: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecahelmetedappletun: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaalertappletun: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadrakun: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecainappledipplin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaapploutdipplin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaleadhydrapple: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadisputinghydrapple: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecarevitalung: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaextithere: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecazangoose: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecazangierra: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaseviper: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagladimous: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecalenini: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakurosheep: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakantonianslowpoke: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagalarianslowpoke: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakantonianslowbro: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamegakantonianslowbro: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagalarianslowbro: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecajohtonianslowking: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagalarianslowking: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecahirugar: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecahiruscor: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaoshawott: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadewott: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaunovansamurott: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagnathone: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaskullpeo: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecafemaledodunus: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamaledodunus: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecandodunus: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadoduo: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecandoduo: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadodrio: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecandodrio: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacherubi: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaovercastcherrim: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasunshinecherrim: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacherrusk: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacherrawn: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecachimanan: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecanoctiny: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecanoctera: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaredflabébé: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecayellowflabébé: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaorangeflabébé: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecablueflabébé: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawhiteflabébé: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaredfloette: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecayellowfloette: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaorangefloette: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabluefloette: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawhitefloette: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaflowerlessfloette: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaredflorges: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecayellowflorges: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaorangeflorges: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecablueflorges: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawhiteflorges: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasirorges: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecarabbuna: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaprionin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaxinphidee: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawyrathin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagloattin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecablothin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagustin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaesnavin: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadunsparce: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecafemalesirapadun: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamalesirapadun: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanminccino: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecancinccino: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasnivy: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaservine: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaserperior: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaspathiphog: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanquaxly: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanquaxwell: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanquaquaval: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecalooph: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaawooph: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacarcraven: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaparaven: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacottonee: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawhimsicott: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacarub: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecavolcatern: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaphytovore: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaleekhavingkantonianfarfetchdd: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaleeklesskantonianfarfetchdd: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaleekhavinggalarianfarfetchdd: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaleeklessgalarianfarfetchdd: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaarmedsirfetchdd: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaretiredsirfetchdd: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaglameow: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaglamspurr: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapurugly: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaskitty: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadelcatty: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaaspiritty: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaaerialing: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecafemaleaeriallet: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamaleaeriallet: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabailestyleoricorio: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapompomstyleoricorio: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapadustyleoricorio: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasensustyleoricorio: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanmisdreavus: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanmismagius: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanhatenna: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanhattrem: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanhatterene: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaphantump: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecatrevenant: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaqmarkqmarkqmark: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamonksee: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecarivakari: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaaquimera: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaswablu: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaaltaria: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamegaaltaria: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasmirkowl: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapompowl: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaspritzee: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaaromatisse: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaplafume: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaswirlix: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaslurpuff: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapupralix: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamilcery: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecavanillacreamalcremie: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecarubycreamalcremie: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamatchacreamalcremie: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamintcreamalcremie: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecalemoncreamalcremie: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasaltedcreamalcremie: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecarubyswirlalcremie: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacaramelswirlalcremie: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecarainbowswirlalcremie: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabam: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasilentdop: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecarapdop: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecarockdop: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapopdop: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecajazzdop: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaelectrodop: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaclassicaldop: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecalofidop: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanfroakie: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanfrogadier: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecangreninja: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaglimleye: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecachingling: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecachimecho: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamegachimecho: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecashinidol: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadeturnate: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawartuga: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabasilox: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaskecko: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagectric: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaschrogitten: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaschrodingat: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecavolbeat: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabeatellite: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaillumise: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaannumise: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanremoraid: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanoctillery: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecansmoochum: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanjynx: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaophanopra: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacloakedpiecansnorunt: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaunguardedpiecansnorunt: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacloakedhoenniansnorunt: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecafreezinghoenniansnorunt: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanglalie: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecahoennianglalie: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamegaglalie: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanfroslass: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecahoennianfroslass: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamegafroslass: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaqmarkqmarkqmarkqmark: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaqmarkqmarkqmarkqmarkqmark: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecajustiny: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadeserex: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaklefki: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabronzally: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaargyally: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagolally: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecangrookey: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanthwackey: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanrillaboom: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecafemalemairen: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamalemairen: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulafemalemairen: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulamalemairen: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaabra: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakadabra: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaalakazam: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamegaalakazam: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasorfoutis: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaportechoux: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadoruller: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaarmamine: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaarmath: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaarmawar: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaarmalence: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecascykodo: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecarexodo: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanfemaleralts: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanmaleralts: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanfemalekirlia: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanmalekirlia: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecangardevoir: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecangallade: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanturtwig: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecanasake: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaourotegro: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanchimchar: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamonvintey: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaraijinape: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanpiplup: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaakhlup: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakanilex: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaterraku: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecansunkern: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecansunflora: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasunova: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecancryogonal: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecahaboobmon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaclaunchava: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaclawitzava: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecachompava: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecatepig: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapignite: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaemboar: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamegaemboar: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecalillet: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaarmadon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanhelioptile: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanheliolisk: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaheliolipse: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasunmon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabulmer: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabulord: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanfuecoco: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecancrocalor: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanskeledirge: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecarellor: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecarollingrabsca: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecashellrabsca: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasabyrooth: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulasabyrooth: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaturriff: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawesttlake: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecafireelester: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaearthelester: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecalightningelester: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaiceelester: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawaterelester: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecameerstorm: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaskullcubone: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecarobbedcubone: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakantonianmarowak: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaalolanmarowak: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaqmarkqmarkqmarkqmarkqmarkqmark: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecatonink: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaaquaptor: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamaractus: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecafemalemariachus: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamalemariachus: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaroaminggimmighoul: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecachestgimmighoul: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagholdengo: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawintoy: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagradol: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamaskedyamask: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamasklessyamask: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacofagrigus: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaqmarkqmarkqmarkqmarkqmarkqmarkqmark: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadelibird: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakuribird: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakranibird: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamimejr: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakantonianmrmime: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagalarianmrmime: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamrrime: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanzorua: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanzoroark: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaweecap: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecahailshright: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamagifir: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapineco: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaforretress: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecantropius: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecatundrealis: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanscorbunny: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanraboot: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecancinderace: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaspiganticus: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapomuide: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagrinnibal: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasnoibou: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecascralk: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecachalast: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecachalow: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecachalure: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaeevee: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecavaporeon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecajolteon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaflareon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaespeon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaumbreon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaleafeon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaglaceon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasylveon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaachilleon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecatetrodeon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaautomeon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaamareon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapneumeon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaadameon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecahuldreon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaphasmeon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapatrocleon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaomníaion: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulahoppip: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulaskiploom: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulajumpluff: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulaspinarak: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulaariados: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulaseedot: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulanuzleaf: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulashiftry: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulaledyba: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasulaledian: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecavigiledy: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacapino: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaarctain: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecatierrga: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecathermalite: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamorgrever: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagrimsnow: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaamphijesty: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasuladreepy: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasuladrakloak: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasuladragapult: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecascavengerkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecatombkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecastarkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamaskkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakindredkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaredfaekleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecayellowfaekleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaorangefaekleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabluefaekleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawhitefaekleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecastrawberryswirlkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacloverswirlkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaribbonswirlkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaberryswirlkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaflowerswirlkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaloveswirlkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecastarswirlkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacoreharvestkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawingharvestkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecanectarharvestkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacandyharvestkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecahydraharvestkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacottonkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecachestkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakeykleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecanestkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacherrybombkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasolospoonkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadualspoonkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecarollingkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecagracideakleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacloudkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecainkkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaadoptivekleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasoloscalchopkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadualingscalchopkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaseamitarscalchopkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawaterbubblekleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadrawshellkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawarlockshellkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecadopeyshellkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecakingshellkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabellkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasilkkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecascarfkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecahuskkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaswordkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasandkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaskullkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawintercloakkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecawarcloakkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacanekleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapompomkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabowkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecabladeleekkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecatrainingleekkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaseasoningleekkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacrownkleptritter: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecangible: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecangabite: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecangarchomp: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecasercere: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaamaigon: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecatalekor: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapiecanphione: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaaradinum: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecacylanum: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaetittle: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaparalora: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaanthrastial: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecavesula: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecademenphulhu: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaastrophur: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaxenopholath: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecalonelyspirink: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecamonogamousspirink: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecapolyamorousspirink: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaforcedbondspirink: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
+	piecaleivura: {
+		learnset: {
+			headbutt: ["9M"],
+			metronome: ["9M"],
+		},
+	},
 };

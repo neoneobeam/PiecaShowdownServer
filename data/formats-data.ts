@@ -6260,4 +6260,2101 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
+	piecaphausque: {
+		tier: "LC",
+	},
+	piecasulaphausque: {
+		tier: "LC",
+	},
+	piecafaundevill: {
+		tier: "LC",
+	},
+	piecasulafaundevill: {
+		tier: "LC",
+	},
+	piecavinokisa: {
+		tier: "LC",
+	},
+	piecasulavinokisa: {
+		tier: "LC",
+	},
+	piecaponitz: {
+		tier: "LC",
+	},
+	piecasulaponitz: {
+		tier: "LC",
+	},
+	piecapegarn: {
+		tier: "LC",
+	},
+	piecasulapegarn: {
+		tier: "LC",
+	},
+	piecaigknight: {
+		tier: "LC",
+	},
+	piecasulaigknight: {
+		tier: "LC",
+	},
+	piecakelpine: {
+		tier: "LC",
+	},
+	piecasulakelpine: {
+		tier: "LC",
+	},
+	piecacalpine: {
+		tier: "LC",
+	},
+	piecasulacalpine: {
+		tier: "LC",
+	},
+	piecaspiripie: {
+		tier: "LC",
+	},
+	piecasulaspiripie: {
+		tier: "LC",
+	},
+	piecagarbager: {
+		tier: "LC",
+	},
+	piecabasuranda: {
+		tier: "LC",
+	},
+	piecawoofee: {
+		tier: "LC",
+	},
+	piecabuzzark: {
+		tier: "LC",
+	},
+	piecabeowiking: {
+		tier: "LC",
+	},
+	piecaflikar: {
+		tier: "LC",
+	},
+	piecasoloar: {
+		tier: "LC",
+	},
+	piecaphelios: {
+		tier: "LC",
+	},
+	piecapiecanfomantis: {
+		tier: "LC",
+	},
+	piecapiecanlurantis: {
+		tier: "LC",
+	},
+	piecacristivity: {
+		tier: "LC",
+	},
+	piecacranogami: {
+		tier: "LC",
+	},
+	piecapiecansentret: {
+		tier: "LC",
+	},
+	piecapiecanfurret: {
+		tier: "LC",
+	},
+	piecaazurret: {
+		tier: "LC",
+	},
+	piecalillithan: {
+		tier: "LC",
+	},
+	piecacirviathan: {
+		tier: "LC",
+	},
+	piecaocelody: {
+		tier: "LC",
+	},
+	piecalapras: {
+		tier: "LC",
+	},
+	piecanaturalcymant: {
+		tier: "LC",
+	},
+	piecaenhancedcymant: {
+		tier: "LC",
+	},
+	piecainkapho: {
+		tier: "LC",
+	},
+	piecafemininelaspphian: {
+		tier: "LC",
+	},
+	piecamasculinelaspphian: {
+		tier: "LC",
+	},
+	piecapiecanpansage: {
+		tier: "LC",
+	},
+	piecacatasage: {
+		tier: "LC",
+	},
+	piecapiecanpansear: {
+		tier: "LC",
+	},
+	piecacatasear: {
+		tier: "LC",
+	},
+	piecapiecanpanpour: {
+		tier: "LC",
+	},
+	piecacatapour: {
+		tier: "LC",
+	},
+	piecapiecanweedle: {
+		tier: "LC",
+	},
+	piecapiecankakuna: {
+		tier: "LC",
+	},
+	piecapiecanbeedrill: {
+		tier: "LC",
+	},
+	piecasporgi: {
+		tier: "LC",
+	},
+	piecasulasporgi: {
+		tier: "LC",
+	},
+	piecapuppeshroom: {
+		tier: "LC",
+	},
+	piecasulapuppeshroom: {
+		tier: "LC",
+	},
+	piecafinko: {
+		tier: "LC",
+	},
+	piecavulppet: {
+		tier: "LC",
+	},
+	piecaarpine: {
+		tier: "LC",
+	},
+	piecaallett: {
+		tier: "LC",
+	},
+	piecachicktryon: {
+		tier: "LC",
+	},
+	piecaalectrooster: {
+		tier: "LC",
+	},
+	piecapiecanelectrike: {
+		tier: "LC",
+	},
+	piecapiecanmanectric: {
+		tier: "LC",
+	},
+	piecahaderiker: {
+		tier: "LC",
+	},
+	piecamarti: {
+		tier: "LC",
+	},
+	piecamartirlo: {
+		tier: "LC",
+	},
+	piecamartirlorgin: {
+		tier: "LC",
+	},
+	piecagolite: {
+		tier: "LC",
+	},
+	piecasulagolite: {
+		tier: "LC",
+	},
+	piecagolearth: {
+		tier: "LC",
+	},
+	piecasulagolearth: {
+		tier: "LC",
+	},
+	piecamarid: {
+		tier: "LC",
+	},
+	piecagrenora: {
+		tier: "LC",
+	},
+	piecacarnidel: {
+		tier: "LC",
+	},
+	piecacadarc: {
+		tier: "LC",
+	},
+	piecatemplight: {
+		tier: "LC",
+	},
+	piecalarvup: {
+		tier: "LC",
+	},
+	piecapupat: {
+		tier: "LC",
+	},
+	piecawyrcolat: {
+		tier: "LC",
+	},
+	piecasableye: {
+		tier: "LC",
+	},
+	piecamegasableye: {
+		tier: "LC",
+	},
+	piecashacula: {
+		tier: "LC",
+	},
+	piecamawile: {
+		tier: "LC",
+	},
+	piecamegamawile: {
+		tier: "LC",
+	},
+	piecaounimaw: {
+		tier: "LC",
+	},
+	piecacarbink: {
+		tier: "LC",
+	},
+	piecabloomingcarbink: {
+		tier: "LC",
+	},
+	piecaarmedishink: {
+		tier: "LC",
+	},
+	piecadisarmedishink: {
+		tier: "LC",
+	},
+	piecapiecanlitten: {
+		tier: "LC",
+	},
+	piecapiecantorracat: {
+		tier: "LC",
+	},
+	piecapiecanincineroar: {
+		tier: "LC",
+	},
+	piecafiguliln: {
+		tier: "LC",
+	},
+	piecaclayceraplea: {
+		tier: "LC",
+	},
+	piecaporcelainceraplea: {
+		tier: "LC",
+	},
+	piecaclaypotleakeist: {
+		tier: "LC",
+	},
+	piecaporcelainpotleakeist: {
+		tier: "LC",
+	},
+	piecasteelgolave: {
+		tier: "LC",
+	},
+	piecacoppergolave: {
+		tier: "LC",
+	},
+	piecaobelune: {
+		tier: "LC",
+	},
+	piecasulaobelune: {
+		tier: "LC",
+	},
+	piecadraconicswog: {
+		tier: "LC",
+	},
+	piecatartswog: {
+		tier: "LC",
+	},
+	piecasulaswog: {
+		tier: "LC",
+	},
+	piecadraconicfobreago: {
+		tier: "LC",
+	},
+	piecatartfobreago: {
+		tier: "LC",
+	},
+	piecasulafobreago: {
+		tier: "LC",
+	},
+	piecadraconicanurigo: {
+		tier: "LC",
+	},
+	piecatartanurigo: {
+		tier: "LC",
+	},
+	piecasulaanurigo: {
+		tier: "LC",
+	},
+	piecadragonsflametaranarach: {
+		tier: "LC",
+	},
+	piecafillingtaranarach: {
+		tier: "LC",
+	},
+	piecasulataranarach: {
+		tier: "LC",
+	},
+	piecapiecancutiefly: {
+		tier: "LC",
+	},
+	piecapiecanribombee: {
+		tier: "LC",
+	},
+	piecasolca: {
+		tier: "LC",
+	},
+	piecasulasolca: {
+		tier: "LC",
+	},
+	piecapiecanseel: {
+		tier: "LC",
+	},
+	piecapiecandewgong: {
+		tier: "LC",
+	},
+	piecamerluga: {
+		tier: "LC",
+	},
+	piecapiecaninkay: {
+		tier: "LC",
+	},
+	piecapiecanmalamar: {
+		tier: "LC",
+	},
+	piecapiecanpopplio: {
+		tier: "LC",
+	},
+	piecapiecanbrionne: {
+		tier: "LC",
+	},
+	piecapiecanprimarina: {
+		tier: "LC",
+	},
+	piecahiddenelegarin: {
+		tier: "LC",
+	},
+	piecaoutwardelegarin: {
+		tier: "LC",
+	},
+	piecaruinedelegarin: {
+		tier: "LC",
+	},
+	piecachatot: {
+		tier: "LC",
+	},
+	piecaparrony: {
+		tier: "LC",
+	},
+	piecakitling: {
+		tier: "LC",
+	},
+	piecakrawsher: {
+		tier: "LC",
+	},
+	piecagilos: {
+		tier: "LC",
+	},
+	piecahelasus: {
+		tier: "LC",
+	},
+	piecagilosus: {
+		tier: "LC",
+	},
+	piecaarppy: {
+		tier: "LC",
+	},
+	piecahowlra: {
+		tier: "LC",
+	},
+	piecapiecanheatmor: {
+		tier: "LC",
+	},
+	piecapiecandurant: {
+		tier: "LC",
+	},
+	piecaterropper: {
+		tier: "LC",
+	},
+	piecapiecanchikorita: {
+		tier: "LC",
+	},
+	piecapiecanbayleef: {
+		tier: "LC",
+	},
+	piecapiecanmeganium: {
+		tier: "LC",
+	},
+	piecapiecancyndaquil: {
+		tier: "LC",
+	},
+	piecapiecanquilava: {
+		tier: "LC",
+	},
+	piecapiecantyphlosion: {
+		tier: "LC",
+	},
+	piecapiecantotodile: {
+		tier: "LC",
+	},
+	piecapiecancroconaw: {
+		tier: "LC",
+	},
+	piecapiecanferaligatr: {
+		tier: "LC",
+	},
+	piecapiecancomfey: {
+		tier: "LC",
+	},
+	piecafeylecrior: {
+		tier: "LC",
+	},
+	piecaatroplin: {
+		tier: "LC",
+	},
+	piecaatrobella: {
+		tier: "LC",
+	},
+	piecabershie: {
+		tier: "LC",
+	},
+	piecabanshie: {
+		tier: "LC",
+	},
+	piecapoppart: {
+		tier: "LC",
+	},
+	piecahelyre: {
+		tier: "LC",
+	},
+	piecaperenoral: {
+		tier: "LC",
+	},
+	piecasunshu: {
+		tier: "LC",
+	},
+	piecapiecanrowlet: {
+		tier: "LC",
+	},
+	piecapiecandartrix: {
+		tier: "LC",
+	},
+	piecapiecandecidueye: {
+		tier: "LC",
+	},
+	piecaballeroll: {
+		tier: "LC",
+	},
+	piecasulaballeroll: {
+		tier: "LC",
+	},
+	piecaminstrette: {
+		tier: "LC",
+	},
+	piecasulaminstrette: {
+		tier: "LC",
+	},
+	piecatinalf: {
+		tier: "LC",
+	},
+	piecaminorinth: {
+		tier: "LC",
+	},
+	piecadrana: {
+		tier: "LC",
+	},
+	piecadezoa: {
+		tier: "LC",
+	},
+	piecapiecanfalinks: {
+		tier: "LC",
+	},
+	piecaanarcoln: {
+		tier: "LC",
+	},
+	piecapetricoln: {
+		tier: "LC",
+	},
+	piecapiecanskarmory: {
+		tier: "LC",
+	},
+	piecasolothermaline: {
+		tier: "LC",
+	},
+	piecasocialthermaline: {
+		tier: "LC",
+	},
+	piecaflamebornesiffon: {
+		tier: "LC",
+	},
+	piecamoonbornesiffon: {
+		tier: "LC",
+	},
+	piecatoxinbornesiffon: {
+		tier: "LC",
+	},
+	piecapiecanspiritomb: {
+		tier: "LC",
+	},
+	piecaboundspiritomb: {
+		tier: "LC",
+	},
+	piecaunboundspiritomb: {
+		tier: "LC",
+	},
+	piecafenrilok: {
+		tier: "LC",
+	},
+	piecajormulok: {
+		tier: "LC",
+	},
+	piecahellok: {
+		tier: "LC",
+	},
+	piecacalios: {
+		tier: "LC",
+	},
+	piecaaquias: {
+		tier: "LC",
+	},
+	piecapiecansprigatito: {
+		tier: "LC",
+	},
+	piecapiecanfloragato: {
+		tier: "LC",
+	},
+	piecapiecanmeowscarada: {
+		tier: "LC",
+	},
+	piecapiecanfennekin: {
+		tier: "LC",
+	},
+	piecapiecanbraixen: {
+		tier: "LC",
+	},
+	piecapiecandelphox: {
+		tier: "LC",
+	},
+	piecapiecansobble: {
+		tier: "LC",
+	},
+	piecapiecandrizzile: {
+		tier: "LC",
+	},
+	piecapiecaninteleon: {
+		tier: "LC",
+	},
+	piecamikeo: {
+		tier: "LC",
+	},
+	piecamikima: {
+		tier: "LC",
+	},
+	piecawinneon: {
+		tier: "LC",
+	},
+	piecalullineon: {
+		tier: "LC",
+	},
+	piecaserenadeon: {
+		tier: "LC",
+	},
+	piecanolorm: {
+		tier: "LC",
+	},
+	piecaencyclyrm: {
+		tier: "LC",
+	},
+	piecaarachey: {
+		tier: "LC",
+	},
+	piecaslingkey: {
+		tier: "LC",
+	},
+	piecastringcoveredtarountula: {
+		tier: "LC",
+	},
+	piecasilklesstarountula: {
+		tier: "LC",
+	},
+	piecaspidops: {
+		tier: "LC",
+	},
+	piecapirow: {
+		tier: "LC",
+	},
+	piecacrookat: {
+		tier: "LC",
+	},
+	piecapichu: {
+		tier: "LC",
+	},
+	piecapiecanpikachu: {
+		tier: "LC",
+	},
+	piecapairochu: {
+		tier: "LC",
+	},
+	piecajellat: {
+		tier: "LC",
+	},
+	piecakittish: {
+		tier: "LC",
+	},
+	piecapurrarb: {
+		tier: "LC",
+	},
+	piecashoveltoppedsandygast: {
+		tier: "LC",
+	},
+	piecaspadelesssandygast: {
+		tier: "LC",
+	},
+	piecashoveltoppedpalossand: {
+		tier: "LC",
+	},
+	piecaspadelesspalossand: {
+		tier: "LC",
+	},
+	piecacroconut: {
+		tier: "LC",
+	},
+	piecapalmadile: {
+		tier: "LC",
+	},
+	piecacuddlish: {
+		tier: "LC",
+	},
+	piecasulacuddlish: {
+		tier: "LC",
+	},
+	piecatriken: {
+		tier: "LC",
+	},
+	piecasharrain: {
+		tier: "LC",
+	},
+	piecajohtoniancorsola: {
+		tier: "LC",
+	},
+	piecagalariancorsola: {
+		tier: "LC",
+	},
+	piecacursola: {
+		tier: "LC",
+	},
+	piecakimonosoma: {
+		tier: "LC",
+	},
+	piecafurisomata: {
+		tier: "LC",
+	},
+	piecapiecanskrelp: {
+		tier: "LC",
+	},
+	piecapiecandragalge: {
+		tier: "LC",
+	},
+	piecaglaudrazent: {
+		tier: "LC",
+	},
+	piecadewpider: {
+		tier: "LC",
+	},
+	piecaaraquanid: {
+		tier: "LC",
+	},
+	piecathisilet: {
+		tier: "LC",
+	},
+	piecathisiper: {
+		tier: "LC",
+	},
+	piecapalengeer: {
+		tier: "LC",
+	},
+	piecapiecanshuckle: {
+		tier: "LC",
+	},
+	piecahunishuckle: {
+		tier: "LC",
+	},
+	piecaplatula: {
+		tier: "LC",
+	},
+	piecaalgentpae: {
+		tier: "LC",
+	},
+	piecasparriff: {
+		tier: "LC",
+	},
+	piecagacoo: {
+		tier: "LC",
+	},
+	piecakangaskhan: {
+		tier: "LC",
+	},
+	piecamegakangaskhan: {
+		tier: "LC",
+	},
+	piecagirafarig: {
+		tier: "LC",
+	},
+	piecakamilimak: {
+		tier: "LC",
+	},
+	piecamarros: {
+		tier: "LC",
+	},
+	piecasulamarros: {
+		tier: "LC",
+	},
+	piecamarshai: {
+		tier: "LC",
+	},
+	piecathroh: {
+		tier: "LC",
+	},
+	piecasawk: {
+		tier: "LC",
+	},
+	piecakhic: {
+		tier: "LC",
+	},
+	piecaarapitter: {
+		tier: "LC",
+	},
+	piecacrutula: {
+		tier: "LC",
+	},
+	piecadragybara: {
+		tier: "LC",
+	},
+	piecasuladragybara: {
+		tier: "LC",
+	},
+	piecapifaullita: {
+		tier: "LC",
+	},
+	piecagrimossom: {
+		tier: "LC",
+	},
+	piecainsidister: {
+		tier: "LC",
+	},
+	piecapiecanchespin: {
+		tier: "LC",
+	},
+	piecapiecanquilladin: {
+		tier: "LC",
+	},
+	piecapiecanchesnaught: {
+		tier: "LC",
+	},
+	piecainappleapplin: {
+		tier: "LC",
+	},
+	piecaapploutapplin: {
+		tier: "LC",
+	},
+	piecaapplewingedflapple: {
+		tier: "LC",
+	},
+	piecagroundedflapple: {
+		tier: "LC",
+	},
+	piecazilaloar: {
+		tier: "LC",
+	},
+	piecahelmetedappletun: {
+		tier: "LC",
+	},
+	piecaalertappletun: {
+		tier: "LC",
+	},
+	piecadrakun: {
+		tier: "LC",
+	},
+	piecainappledipplin: {
+		tier: "LC",
+	},
+	piecaapploutdipplin: {
+		tier: "LC",
+	},
+	piecaleadhydrapple: {
+		tier: "LC",
+	},
+	piecadisputinghydrapple: {
+		tier: "LC",
+	},
+	piecarevitalung: {
+		tier: "LC",
+	},
+	piecaextithere: {
+		tier: "LC",
+	},
+	piecazangoose: {
+		tier: "LC",
+	},
+	piecazangierra: {
+		tier: "LC",
+	},
+	piecaseviper: {
+		tier: "LC",
+	},
+	piecagladimous: {
+		tier: "LC",
+	},
+	piecalenini: {
+		tier: "LC",
+	},
+	piecakurosheep: {
+		tier: "LC",
+	},
+	piecakantonianslowpoke: {
+		tier: "LC",
+	},
+	piecagalarianslowpoke: {
+		tier: "LC",
+	},
+	piecakantonianslowbro: {
+		tier: "LC",
+	},
+	piecamegakantonianslowbro: {
+		tier: "LC",
+	},
+	piecagalarianslowbro: {
+		tier: "LC",
+	},
+	piecajohtonianslowking: {
+		tier: "LC",
+	},
+	piecagalarianslowking: {
+		tier: "LC",
+	},
+	piecahirugar: {
+		tier: "LC",
+	},
+	piecahiruscor: {
+		tier: "LC",
+	},
+	piecaoshawott: {
+		tier: "LC",
+	},
+	piecadewott: {
+		tier: "LC",
+	},
+	piecaunovansamurott: {
+		tier: "LC",
+	},
+	piecagnathone: {
+		tier: "LC",
+	},
+	piecaskullpeo: {
+		tier: "LC",
+	},
+	piecafemaledodunus: {
+		tier: "LC",
+	},
+	piecamaledodunus: {
+		tier: "LC",
+	},
+	piecapiecandodunus: {
+		tier: "LC",
+	},
+	piecadoduo: {
+		tier: "LC",
+	},
+	piecapiecandoduo: {
+		tier: "LC",
+	},
+	piecadodrio: {
+		tier: "LC",
+	},
+	piecapiecandodrio: {
+		tier: "LC",
+	},
+	piecacherubi: {
+		tier: "LC",
+	},
+	piecaovercastcherrim: {
+		tier: "LC",
+	},
+	piecasunshinecherrim: {
+		tier: "LC",
+	},
+	piecacherrusk: {
+		tier: "LC",
+	},
+	piecacherrawn: {
+		tier: "LC",
+	},
+	piecachimanan: {
+		tier: "LC",
+	},
+	piecanoctiny: {
+		tier: "LC",
+	},
+	piecanoctera: {
+		tier: "LC",
+	},
+	piecaredflabébé: {
+		tier: "LC",
+	},
+	piecayellowflabébé: {
+		tier: "LC",
+	},
+	piecaorangeflabébé: {
+		tier: "LC",
+	},
+	piecablueflabébé: {
+		tier: "LC",
+	},
+	piecawhiteflabébé: {
+		tier: "LC",
+	},
+	piecaredfloette: {
+		tier: "LC",
+	},
+	piecayellowfloette: {
+		tier: "LC",
+	},
+	piecaorangefloette: {
+		tier: "LC",
+	},
+	piecabluefloette: {
+		tier: "LC",
+	},
+	piecawhitefloette: {
+		tier: "LC",
+	},
+	piecaflowerlessfloette: {
+		tier: "LC",
+	},
+	piecaredflorges: {
+		tier: "LC",
+	},
+	piecayellowflorges: {
+		tier: "LC",
+	},
+	piecaorangeflorges: {
+		tier: "LC",
+	},
+	piecablueflorges: {
+		tier: "LC",
+	},
+	piecawhiteflorges: {
+		tier: "LC",
+	},
+	piecasirorges: {
+		tier: "LC",
+	},
+	piecarabbuna: {
+		tier: "LC",
+	},
+	piecaprionin: {
+		tier: "LC",
+	},
+	piecaxinphidee: {
+		tier: "LC",
+	},
+	piecawyrathin: {
+		tier: "LC",
+	},
+	piecagloattin: {
+		tier: "LC",
+	},
+	piecablothin: {
+		tier: "LC",
+	},
+	piecagustin: {
+		tier: "LC",
+	},
+	piecaesnavin: {
+		tier: "LC",
+	},
+	piecadunsparce: {
+		tier: "LC",
+	},
+	piecafemalesirapadun: {
+		tier: "LC",
+	},
+	piecamalesirapadun: {
+		tier: "LC",
+	},
+	piecapiecanminccino: {
+		tier: "LC",
+	},
+	piecapiecancinccino: {
+		tier: "LC",
+	},
+	piecasnivy: {
+		tier: "LC",
+	},
+	piecaservine: {
+		tier: "LC",
+	},
+	piecaserperior: {
+		tier: "LC",
+	},
+	piecaspathiphog: {
+		tier: "LC",
+	},
+	piecapiecanquaxly: {
+		tier: "LC",
+	},
+	piecapiecanquaxwell: {
+		tier: "LC",
+	},
+	piecapiecanquaquaval: {
+		tier: "LC",
+	},
+	piecalooph: {
+		tier: "LC",
+	},
+	piecaawooph: {
+		tier: "LC",
+	},
+	piecacarcraven: {
+		tier: "LC",
+	},
+	piecaparaven: {
+		tier: "LC",
+	},
+	piecacottonee: {
+		tier: "LC",
+	},
+	piecawhimsicott: {
+		tier: "LC",
+	},
+	piecacarub: {
+		tier: "LC",
+	},
+	piecavolcatern: {
+		tier: "LC",
+	},
+	piecaphytovore: {
+		tier: "LC",
+	},
+	piecaleekhavingkantonianfarfetchdd: {
+		tier: "LC",
+	},
+	piecaleeklesskantonianfarfetchdd: {
+		tier: "LC",
+	},
+	piecaleekhavinggalarianfarfetchdd: {
+		tier: "LC",
+	},
+	piecaleeklessgalarianfarfetchdd: {
+		tier: "LC",
+	},
+	piecaarmedsirfetchdd: {
+		tier: "LC",
+	},
+	piecaretiredsirfetchdd: {
+		tier: "LC",
+	},
+	piecaglameow: {
+		tier: "LC",
+	},
+	piecaglamspurr: {
+		tier: "LC",
+	},
+	piecapurugly: {
+		tier: "LC",
+	},
+	piecaskitty: {
+		tier: "LC",
+	},
+	piecadelcatty: {
+		tier: "LC",
+	},
+	piecaaspiritty: {
+		tier: "LC",
+	},
+	piecaaerialing: {
+		tier: "LC",
+	},
+	piecafemaleaeriallet: {
+		tier: "LC",
+	},
+	piecamaleaeriallet: {
+		tier: "LC",
+	},
+	piecabailestyleoricorio: {
+		tier: "LC",
+	},
+	piecapompomstyleoricorio: {
+		tier: "LC",
+	},
+	piecapadustyleoricorio: {
+		tier: "LC",
+	},
+	piecasensustyleoricorio: {
+		tier: "LC",
+	},
+	piecapiecanmisdreavus: {
+		tier: "LC",
+	},
+	piecapiecanmismagius: {
+		tier: "LC",
+	},
+	piecapiecanhatenna: {
+		tier: "LC",
+	},
+	piecapiecanhattrem: {
+		tier: "LC",
+	},
+	piecapiecanhatterene: {
+		tier: "LC",
+	},
+	piecaphantump: {
+		tier: "LC",
+	},
+	piecatrevenant: {
+		tier: "LC",
+	},
+	piecaqmarkqmarkqmark: {
+		tier: "LC",
+	},
+	piecamonksee: {
+		tier: "LC",
+	},
+	piecarivakari: {
+		tier: "LC",
+	},
+	piecaaquimera: {
+		tier: "LC",
+	},
+	piecaswablu: {
+		tier: "LC",
+	},
+	piecaaltaria: {
+		tier: "LC",
+	},
+	piecamegaaltaria: {
+		tier: "LC",
+	},
+	piecasmirkowl: {
+		tier: "LC",
+	},
+	piecapompowl: {
+		tier: "LC",
+	},
+	piecaspritzee: {
+		tier: "LC",
+	},
+	piecaaromatisse: {
+		tier: "LC",
+	},
+	piecaplafume: {
+		tier: "LC",
+	},
+	piecaswirlix: {
+		tier: "LC",
+	},
+	piecaslurpuff: {
+		tier: "LC",
+	},
+	piecapupralix: {
+		tier: "LC",
+	},
+	piecamilcery: {
+		tier: "LC",
+	},
+	piecavanillacreamalcremie: {
+		tier: "LC",
+	},
+	piecarubycreamalcremie: {
+		tier: "LC",
+	},
+	piecamatchacreamalcremie: {
+		tier: "LC",
+	},
+	piecamintcreamalcremie: {
+		tier: "LC",
+	},
+	piecalemoncreamalcremie: {
+		tier: "LC",
+	},
+	piecasaltedcreamalcremie: {
+		tier: "LC",
+	},
+	piecarubyswirlalcremie: {
+		tier: "LC",
+	},
+	piecacaramelswirlalcremie: {
+		tier: "LC",
+	},
+	piecarainbowswirlalcremie: {
+		tier: "LC",
+	},
+	piecabam: {
+		tier: "LC",
+	},
+	piecasilentdop: {
+		tier: "LC",
+	},
+	piecarapdop: {
+		tier: "LC",
+	},
+	piecarockdop: {
+		tier: "LC",
+	},
+	piecapopdop: {
+		tier: "LC",
+	},
+	piecajazzdop: {
+		tier: "LC",
+	},
+	piecaelectrodop: {
+		tier: "LC",
+	},
+	piecaclassicaldop: {
+		tier: "LC",
+	},
+	piecalofidop: {
+		tier: "LC",
+	},
+	piecapiecanfroakie: {
+		tier: "LC",
+	},
+	piecapiecanfrogadier: {
+		tier: "LC",
+	},
+	piecapiecangreninja: {
+		tier: "LC",
+	},
+	piecaglimleye: {
+		tier: "LC",
+	},
+	piecachingling: {
+		tier: "LC",
+	},
+	piecachimecho: {
+		tier: "LC",
+	},
+	piecamegachimecho: {
+		tier: "LC",
+	},
+	piecashinidol: {
+		tier: "LC",
+	},
+	piecadeturnate: {
+		tier: "LC",
+	},
+	piecawartuga: {
+		tier: "LC",
+	},
+	piecabasilox: {
+		tier: "LC",
+	},
+	piecaskecko: {
+		tier: "LC",
+	},
+	piecagectric: {
+		tier: "LC",
+	},
+	piecaschrogitten: {
+		tier: "LC",
+	},
+	piecaschrodingat: {
+		tier: "LC",
+	},
+	piecavolbeat: {
+		tier: "LC",
+	},
+	piecabeatellite: {
+		tier: "LC",
+	},
+	piecaillumise: {
+		tier: "LC",
+	},
+	piecaannumise: {
+		tier: "LC",
+	},
+	piecapiecanremoraid: {
+		tier: "LC",
+	},
+	piecapiecanoctillery: {
+		tier: "LC",
+	},
+	piecapiecansmoochum: {
+		tier: "LC",
+	},
+	piecapiecanjynx: {
+		tier: "LC",
+	},
+	piecaophanopra: {
+		tier: "LC",
+	},
+	piecacloakedpiecansnorunt: {
+		tier: "LC",
+	},
+	piecaunguardedpiecansnorunt: {
+		tier: "LC",
+	},
+	piecacloakedhoenniansnorunt: {
+		tier: "LC",
+	},
+	piecafreezinghoenniansnorunt: {
+		tier: "LC",
+	},
+	piecapiecanglalie: {
+		tier: "LC",
+	},
+	piecahoennianglalie: {
+		tier: "LC",
+	},
+	piecamegaglalie: {
+		tier: "LC",
+	},
+	piecapiecanfroslass: {
+		tier: "LC",
+	},
+	piecahoennianfroslass: {
+		tier: "LC",
+	},
+	piecamegafroslass: {
+		tier: "LC",
+	},
+	piecaqmarkqmarkqmarkqmark: {
+		tier: "LC",
+	},
+	piecaqmarkqmarkqmarkqmarkqmark: {
+		tier: "LC",
+	},
+	piecajustiny: {
+		tier: "LC",
+	},
+	piecadeserex: {
+		tier: "LC",
+	},
+	piecaklefki: {
+		tier: "LC",
+	},
+	piecabronzally: {
+		tier: "LC",
+	},
+	piecaargyally: {
+		tier: "LC",
+	},
+	piecagolally: {
+		tier: "LC",
+	},
+	piecapiecangrookey: {
+		tier: "LC",
+	},
+	piecapiecanthwackey: {
+		tier: "LC",
+	},
+	piecapiecanrillaboom: {
+		tier: "LC",
+	},
+	piecafemalemairen: {
+		tier: "LC",
+	},
+	piecamalemairen: {
+		tier: "LC",
+	},
+	piecasulafemalemairen: {
+		tier: "LC",
+	},
+	piecasulamalemairen: {
+		tier: "LC",
+	},
+	piecaabra: {
+		tier: "LC",
+	},
+	piecakadabra: {
+		tier: "LC",
+	},
+	piecaalakazam: {
+		tier: "LC",
+	},
+	piecamegaalakazam: {
+		tier: "LC",
+	},
+	piecasorfoutis: {
+		tier: "LC",
+	},
+	piecaportechoux: {
+		tier: "LC",
+	},
+	piecadoruller: {
+		tier: "LC",
+	},
+	piecaarmamine: {
+		tier: "LC",
+	},
+	piecaarmath: {
+		tier: "LC",
+	},
+	piecaarmawar: {
+		tier: "LC",
+	},
+	piecaarmalence: {
+		tier: "LC",
+	},
+	piecascykodo: {
+		tier: "LC",
+	},
+	piecarexodo: {
+		tier: "LC",
+	},
+	piecapiecanfemaleralts: {
+		tier: "LC",
+	},
+	piecapiecanmaleralts: {
+		tier: "LC",
+	},
+	piecapiecanfemalekirlia: {
+		tier: "LC",
+	},
+	piecapiecanmalekirlia: {
+		tier: "LC",
+	},
+	piecapiecangardevoir: {
+		tier: "LC",
+	},
+	piecapiecangallade: {
+		tier: "LC",
+	},
+	piecapiecanturtwig: {
+		tier: "LC",
+	},
+	piecanasake: {
+		tier: "LC",
+	},
+	piecaourotegro: {
+		tier: "LC",
+	},
+	piecapiecanchimchar: {
+		tier: "LC",
+	},
+	piecamonvintey: {
+		tier: "LC",
+	},
+	piecaraijinape: {
+		tier: "LC",
+	},
+	piecapiecanpiplup: {
+		tier: "LC",
+	},
+	piecaakhlup: {
+		tier: "LC",
+	},
+	piecakanilex: {
+		tier: "LC",
+	},
+	piecaterraku: {
+		tier: "LC",
+	},
+	piecapiecansunkern: {
+		tier: "LC",
+	},
+	piecapiecansunflora: {
+		tier: "LC",
+	},
+	piecasunova: {
+		tier: "LC",
+	},
+	piecapiecancryogonal: {
+		tier: "LC",
+	},
+	piecahaboobmon: {
+		tier: "LC",
+	},
+	piecaclaunchava: {
+		tier: "LC",
+	},
+	piecaclawitzava: {
+		tier: "LC",
+	},
+	piecachompava: {
+		tier: "LC",
+	},
+	piecatepig: {
+		tier: "LC",
+	},
+	piecapignite: {
+		tier: "LC",
+	},
+	piecaemboar: {
+		tier: "LC",
+	},
+	piecamegaemboar: {
+		tier: "LC",
+	},
+	piecalillet: {
+		tier: "LC",
+	},
+	piecaarmadon: {
+		tier: "LC",
+	},
+	piecapiecanhelioptile: {
+		tier: "LC",
+	},
+	piecapiecanheliolisk: {
+		tier: "LC",
+	},
+	piecaheliolipse: {
+		tier: "LC",
+	},
+	piecasunmon: {
+		tier: "LC",
+	},
+	piecabulmer: {
+		tier: "LC",
+	},
+	piecabulord: {
+		tier: "LC",
+	},
+	piecapiecanfuecoco: {
+		tier: "LC",
+	},
+	piecapiecancrocalor: {
+		tier: "LC",
+	},
+	piecapiecanskeledirge: {
+		tier: "LC",
+	},
+	piecarellor: {
+		tier: "LC",
+	},
+	piecarollingrabsca: {
+		tier: "LC",
+	},
+	piecashellrabsca: {
+		tier: "LC",
+	},
+	piecasabyrooth: {
+		tier: "LC",
+	},
+	piecasulasabyrooth: {
+		tier: "LC",
+	},
+	piecaturriff: {
+		tier: "LC",
+	},
+	piecawesttlake: {
+		tier: "LC",
+	},
+	piecafireelester: {
+		tier: "LC",
+	},
+	piecaearthelester: {
+		tier: "LC",
+	},
+	piecalightningelester: {
+		tier: "LC",
+	},
+	piecaiceelester: {
+		tier: "LC",
+	},
+	piecawaterelester: {
+		tier: "LC",
+	},
+	piecameerstorm: {
+		tier: "LC",
+	},
+	piecaskullcubone: {
+		tier: "LC",
+	},
+	piecarobbedcubone: {
+		tier: "LC",
+	},
+	piecakantonianmarowak: {
+		tier: "LC",
+	},
+	piecaalolanmarowak: {
+		tier: "LC",
+	},
+	piecaqmarkqmarkqmarkqmarkqmarkqmark: {
+		tier: "LC",
+	},
+	piecatonink: {
+		tier: "LC",
+	},
+	piecaaquaptor: {
+		tier: "LC",
+	},
+	piecamaractus: {
+		tier: "LC",
+	},
+	piecafemalemariachus: {
+		tier: "LC",
+	},
+	piecamalemariachus: {
+		tier: "LC",
+	},
+	piecaroaminggimmighoul: {
+		tier: "LC",
+	},
+	piecachestgimmighoul: {
+		tier: "LC",
+	},
+	piecagholdengo: {
+		tier: "LC",
+	},
+	piecawintoy: {
+		tier: "LC",
+	},
+	piecagradol: {
+		tier: "LC",
+	},
+	piecamaskedyamask: {
+		tier: "LC",
+	},
+	piecamasklessyamask: {
+		tier: "LC",
+	},
+	piecacofagrigus: {
+		tier: "LC",
+	},
+	piecaqmarkqmarkqmarkqmarkqmarkqmarkqmark: {
+		tier: "LC",
+	},
+	piecadelibird: {
+		tier: "LC",
+	},
+	piecakuribird: {
+		tier: "LC",
+	},
+	piecakranibird: {
+		tier: "LC",
+	},
+	piecamimejr: {
+		tier: "LC",
+	},
+	piecakantonianmrmime: {
+		tier: "LC",
+	},
+	piecagalarianmrmime: {
+		tier: "LC",
+	},
+	piecamrrime: {
+		tier: "LC",
+	},
+	piecapiecanzorua: {
+		tier: "LC",
+	},
+	piecapiecanzoroark: {
+		tier: "LC",
+	},
+	piecaweecap: {
+		tier: "LC",
+	},
+	piecahailshright: {
+		tier: "LC",
+	},
+	piecamagifir: {
+		tier: "LC",
+	},
+	piecapineco: {
+		tier: "LC",
+	},
+	piecaforretress: {
+		tier: "LC",
+	},
+	piecapiecantropius: {
+		tier: "LC",
+	},
+	piecatundrealis: {
+		tier: "LC",
+	},
+	piecapiecanscorbunny: {
+		tier: "LC",
+	},
+	piecapiecanraboot: {
+		tier: "LC",
+	},
+	piecapiecancinderace: {
+		tier: "LC",
+	},
+	piecaspiganticus: {
+		tier: "LC",
+	},
+	piecapomuide: {
+		tier: "LC",
+	},
+	piecagrinnibal: {
+		tier: "LC",
+	},
+	piecasnoibou: {
+		tier: "LC",
+	},
+	piecascralk: {
+		tier: "LC",
+	},
+	piecachalast: {
+		tier: "LC",
+	},
+	piecachalow: {
+		tier: "LC",
+	},
+	piecachalure: {
+		tier: "LC",
+	},
+	piecaeevee: {
+		tier: "LC",
+	},
+	piecavaporeon: {
+		tier: "LC",
+	},
+	piecajolteon: {
+		tier: "LC",
+	},
+	piecaflareon: {
+		tier: "LC",
+	},
+	piecaespeon: {
+		tier: "LC",
+	},
+	piecaumbreon: {
+		tier: "LC",
+	},
+	piecaleafeon: {
+		tier: "LC",
+	},
+	piecaglaceon: {
+		tier: "LC",
+	},
+	piecasylveon: {
+		tier: "LC",
+	},
+	piecaachilleon: {
+		tier: "LC",
+	},
+	piecatetrodeon: {
+		tier: "LC",
+	},
+	piecaautomeon: {
+		tier: "LC",
+	},
+	piecaamareon: {
+		tier: "LC",
+	},
+	piecapneumeon: {
+		tier: "LC",
+	},
+	piecaadameon: {
+		tier: "LC",
+	},
+	piecahuldreon: {
+		tier: "LC",
+	},
+	piecaphasmeon: {
+		tier: "LC",
+	},
+	piecapatrocleon: {
+		tier: "LC",
+	},
+	piecaomníaion: {
+		tier: "LC",
+	},
+	piecasulahoppip: {
+		tier: "LC",
+	},
+	piecasulaskiploom: {
+		tier: "LC",
+	},
+	piecasulajumpluff: {
+		tier: "LC",
+	},
+	piecasulaspinarak: {
+		tier: "LC",
+	},
+	piecasulaariados: {
+		tier: "LC",
+	},
+	piecasulaseedot: {
+		tier: "LC",
+	},
+	piecasulanuzleaf: {
+		tier: "LC",
+	},
+	piecasulashiftry: {
+		tier: "LC",
+	},
+	piecasulaledyba: {
+		tier: "LC",
+	},
+	piecasulaledian: {
+		tier: "LC",
+	},
+	piecavigiledy: {
+		tier: "LC",
+	},
+	piecacapino: {
+		tier: "LC",
+	},
+	piecaarctain: {
+		tier: "LC",
+	},
+	piecatierrga: {
+		tier: "LC",
+	},
+	piecathermalite: {
+		tier: "LC",
+	},
+	piecamorgrever: {
+		tier: "LC",
+	},
+	piecagrimsnow: {
+		tier: "LC",
+	},
+	piecaamphijesty: {
+		tier: "LC",
+	},
+	piecasuladreepy: {
+		tier: "LC",
+	},
+	piecasuladrakloak: {
+		tier: "LC",
+	},
+	piecasuladragapult: {
+		tier: "LC",
+	},
+	piecascavengerkleptritter: {
+		tier: "LC",
+	},
+	piecatombkleptritter: {
+		tier: "LC",
+	},
+	piecastarkleptritter: {
+		tier: "LC",
+	},
+	piecamaskkleptritter: {
+		tier: "LC",
+	},
+	piecakindredkleptritter: {
+		tier: "LC",
+	},
+	piecaredfaekleptritter: {
+		tier: "LC",
+	},
+	piecayellowfaekleptritter: {
+		tier: "LC",
+	},
+	piecaorangefaekleptritter: {
+		tier: "LC",
+	},
+	piecabluefaekleptritter: {
+		tier: "LC",
+	},
+	piecawhitefaekleptritter: {
+		tier: "LC",
+	},
+	piecastrawberryswirlkleptritter: {
+		tier: "LC",
+	},
+	piecacloverswirlkleptritter: {
+		tier: "LC",
+	},
+	piecaribbonswirlkleptritter: {
+		tier: "LC",
+	},
+	piecaberryswirlkleptritter: {
+		tier: "LC",
+	},
+	piecaflowerswirlkleptritter: {
+		tier: "LC",
+	},
+	piecaloveswirlkleptritter: {
+		tier: "LC",
+	},
+	piecastarswirlkleptritter: {
+		tier: "LC",
+	},
+	piecacoreharvestkleptritter: {
+		tier: "LC",
+	},
+	piecawingharvestkleptritter: {
+		tier: "LC",
+	},
+	piecanectarharvestkleptritter: {
+		tier: "LC",
+	},
+	piecacandyharvestkleptritter: {
+		tier: "LC",
+	},
+	piecahydraharvestkleptritter: {
+		tier: "LC",
+	},
+	piecacottonkleptritter: {
+		tier: "LC",
+	},
+	piecachestkleptritter: {
+		tier: "LC",
+	},
+	piecakeykleptritter: {
+		tier: "LC",
+	},
+	piecanestkleptritter: {
+		tier: "LC",
+	},
+	piecacherrybombkleptritter: {
+		tier: "LC",
+	},
+	piecasolospoonkleptritter: {
+		tier: "LC",
+	},
+	piecadualspoonkleptritter: {
+		tier: "LC",
+	},
+	piecarollingkleptritter: {
+		tier: "LC",
+	},
+	piecagracideakleptritter: {
+		tier: "LC",
+	},
+	piecacloudkleptritter: {
+		tier: "LC",
+	},
+	piecainkkleptritter: {
+		tier: "LC",
+	},
+	piecaadoptivekleptritter: {
+		tier: "LC",
+	},
+	piecasoloscalchopkleptritter: {
+		tier: "LC",
+	},
+	piecadualingscalchopkleptritter: {
+		tier: "LC",
+	},
+	piecaseamitarscalchopkleptritter: {
+		tier: "LC",
+	},
+	piecawaterbubblekleptritter: {
+		tier: "LC",
+	},
+	piecadrawshellkleptritter: {
+		tier: "LC",
+	},
+	piecawarlockshellkleptritter: {
+		tier: "LC",
+	},
+	piecadopeyshellkleptritter: {
+		tier: "LC",
+	},
+	piecakingshellkleptritter: {
+		tier: "LC",
+	},
+	piecabellkleptritter: {
+		tier: "LC",
+	},
+	piecasilkkleptritter: {
+		tier: "LC",
+	},
+	piecascarfkleptritter: {
+		tier: "LC",
+	},
+	piecahuskkleptritter: {
+		tier: "LC",
+	},
+	piecaswordkleptritter: {
+		tier: "LC",
+	},
+	piecasandkleptritter: {
+		tier: "LC",
+	},
+	piecaskullkleptritter: {
+		tier: "LC",
+	},
+	piecawintercloakkleptritter: {
+		tier: "LC",
+	},
+	piecawarcloakkleptritter: {
+		tier: "LC",
+	},
+	piecacanekleptritter: {
+		tier: "LC",
+	},
+	piecapompomkleptritter: {
+		tier: "LC",
+	},
+	piecabowkleptritter: {
+		tier: "LC",
+	},
+	piecabladeleekkleptritter: {
+		tier: "LC",
+	},
+	piecatrainingleekkleptritter: {
+		tier: "LC",
+	},
+	piecaseasoningleekkleptritter: {
+		tier: "LC",
+	},
+	piecacrownkleptritter: {
+		tier: "LC",
+	},
+	piecapiecangible: {
+		tier: "LC",
+	},
+	piecapiecangabite: {
+		tier: "LC",
+	},
+	piecapiecangarchomp: {
+		tier: "LC",
+	},
+	piecasercere: {
+		tier: "LC",
+	},
+	piecaamaigon: {
+		tier: "LC",
+	},
+	piecatalekor: {
+		tier: "LC",
+	},
+	piecapiecanphione: {
+		tier: "LC",
+	},
+	piecaaradinum: {
+		tier: "LC",
+	},
+	piecacylanum: {
+		tier: "LC",
+	},
+	piecaetittle: {
+		tier: "LC",
+	},
+	piecaparalora: {
+		tier: "LC",
+	},
+	piecaanthrastial: {
+		tier: "LC",
+	},
+	piecavesula: {
+		tier: "LC",
+	},
+	piecademenphulhu: {
+		tier: "LC",
+	},
+	piecaastrophur: {
+		tier: "LC",
+	},
+	piecaxenopholath: {
+		tier: "LC",
+	},
+	piecalonelyspirink: {
+		tier: "LC",
+	},
+	piecamonogamousspirink: {
+		tier: "LC",
+	},
+	piecapolyamorousspirink: {
+		tier: "LC",
+	},
+	piecaforcedbondspirink: {
+		tier: "LC",
+	},
+	piecaleivura: {
+		tier: "LC",
+	},
 };
