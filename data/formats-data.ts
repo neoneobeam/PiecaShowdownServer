@@ -6272,10 +6272,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecasulafaundevill: {
 		tier: "LC",
 	},
-	piecavinokisa: {
+	piecasovraunformerlyvinokisa: {
 		tier: "LC",
 	},
-	piecasulavinokisa: {
+	piecasulasovraunformerlyvinokisa: {
 		tier: "LC",
 	},
 	piecaponitz: {
@@ -6371,10 +6371,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecalapras: {
 		tier: "LC",
 	},
-	piecanaturalcymant: {
+	piecanaturalordocaeformerlycymant: {
 		tier: "LC",
 	},
-	piecaenhancedcymant: {
+	piecaenhancedordocaeformerlycymant: {
 		tier: "LC",
 	},
 	piecainkapho: {
@@ -6425,7 +6425,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecasulapuppeshroom: {
 		tier: "LC",
 	},
-	piecafinko: {
+	piecafrucoformerlyfinko: {
 		tier: "LC",
 	},
 	piecavulppet: {
@@ -6452,13 +6452,13 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecahaderiker: {
 		tier: "LC",
 	},
-	piecamarti: {
+	piecamarvilatiformerlymarti: {
 		tier: "LC",
 	},
-	piecamartirlo: {
+	piecamarvilaformerlymartirlo: {
 		tier: "LC",
 	},
-	piecamartirlorgin: {
+	piecamarviformerlymartirlorgin: {
 		tier: "LC",
 	},
 	piecagolite: {
@@ -6494,7 +6494,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecapupat: {
 		tier: "LC",
 	},
-	piecawyrcolat: {
+	piecaglowattformerlywyrcolat: {
 		tier: "LC",
 	},
 	piecasableye: {
@@ -6572,22 +6572,22 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecasulaswog: {
 		tier: "LC",
 	},
-	piecadraconicfobreago: {
+	piecadraconicsalamigoformerlyfobreago: {
 		tier: "LC",
 	},
-	piecatartfobreago: {
+	piecatartsalamigoformerlyfobreago: {
 		tier: "LC",
 	},
-	piecasulafobreago: {
+	piecasulasalamigoformerlyfobreago: {
 		tier: "LC",
 	},
-	piecadraconicanurigo: {
+	piecadraconicamorigoformerlyanurigo: {
 		tier: "LC",
 	},
-	piecatartanurigo: {
+	piecatartamorigoformerlyanurigo: {
 		tier: "LC",
 	},
-	piecasulaanurigo: {
+	piecasulaamorigoformerlyanurigo: {
 		tier: "LC",
 	},
 	piecadragonsflametaranarach: {
@@ -6605,10 +6605,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecapiecanribombee: {
 		tier: "LC",
 	},
-	piecasolca: {
+	piecasolmolaformerlysolca: {
 		tier: "LC",
 	},
-	piecasulasolca: {
+	piecasulasolmolaformerlysolmola: {
 		tier: "LC",
 	},
 	piecapiecanseel: {
@@ -6959,7 +6959,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecapiecandragalge: {
 		tier: "LC",
 	},
-	piecaglaudrazent: {
+	piecaphyllorialformerlyglaudrazent: {
 		tier: "LC",
 	},
 	piecadewpider: {
@@ -6983,7 +6983,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecahunishuckle: {
 		tier: "LC",
 	},
-	piecaplatula: {
+	piecaplatremeformerlyplatula: {
 		tier: "LC",
 	},
 	piecaalgentpae: {
@@ -7037,7 +7037,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecasuladragybara: {
 		tier: "LC",
 	},
-	piecapifaullita: {
+	piecaspectritformerlypifaullita: {
 		tier: "LC",
 	},
 	piecagrimossom: {
@@ -7109,7 +7109,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecagladimous: {
 		tier: "LC",
 	},
-	piecalenini: {
+	piecalefiniformerlylenini: {
 		tier: "LC",
 	},
 	piecakurosheep: {
@@ -7154,13 +7154,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecagnathone: {
 		tier: "LC",
 	},
-	piecaskullpeo: {
+	piecaskullpaleoformerlyskullpeo: {
 		tier: "LC",
 	},
-	piecafemaledodunus: {
-		tier: "LC",
-	},
-	piecamaledodunus: {
+	piecadodunus: {
 		tier: "LC",
 	},
 	piecapiecandodunus: {
@@ -7193,7 +7190,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecacherrawn: {
 		tier: "LC",
 	},
-	piecachimanan: {
+	piecakirassapaformerlychimanan: {
 		tier: "LC",
 	},
 	piecanoctiny: {
@@ -7233,6 +7230,15 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "LC",
 	},
 	piecaflowerlessfloette: {
+		tier: "LC",
+	},
+	piecaeternalflowerfloette: {
+		tier: "LC",
+	},
+	piecaflowerlesseternalflowerfloette: {
+		tier: "LC",
+	},
+	piecamegaeternalflowerfloette: {
 		tier: "LC",
 	},
 	piecaredflorges: {
@@ -7655,16 +7661,16 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecapiecanrillaboom: {
 		tier: "LC",
 	},
-	piecafemalemairen: {
+	piecafemalemaicoformerlymairen: {
 		tier: "LC",
 	},
-	piecamalemairen: {
+	piecamalemaicoformerlymairen: {
 		tier: "LC",
 	},
-	piecasulafemalemairen: {
+	piecasulafemalemaicoformerlymairen: {
 		tier: "LC",
 	},
-	piecasulamalemairen: {
+	piecasulamalemaicoformerlymairen: {
 		tier: "LC",
 	},
 	piecaabra: {
@@ -7727,16 +7733,16 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecapiecanturtwig: {
 		tier: "LC",
 	},
-	piecanasake: {
+	piecagrovitformerlynasake: {
 		tier: "LC",
 	},
-	piecaourotegro: {
+	piecaouroterraformerlyourotegro: {
 		tier: "LC",
 	},
 	piecapiecanchimchar: {
 		tier: "LC",
 	},
-	piecamonvintey: {
+	piecamonoltformerlymonvintey: {
 		tier: "LC",
 	},
 	piecaraijinape: {
@@ -7748,10 +7754,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecaakhlup: {
 		tier: "LC",
 	},
-	piecakanilex: {
+	piecaorcarexformerlykanilex: {
 		tier: "LC",
 	},
-	piecaterraku: {
+	piecaterrarkformerlyterraku: {
 		tier: "LC",
 	},
 	piecapiecansunkern: {
@@ -7766,7 +7772,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecapiecancryogonal: {
 		tier: "LC",
 	},
-	piecahaboobmon: {
+	piecaringtust: {
 		tier: "LC",
 	},
 	piecaclaunchava: {
@@ -7805,7 +7811,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecaheliolipse: {
 		tier: "LC",
 	},
-	piecasunmon: {
+	piecasunark: {
 		tier: "LC",
 	},
 	piecabulmer: {
@@ -7916,7 +7922,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecacofagrigus: {
 		tier: "LC",
 	},
-	piecaqmarkqmarkqmarkqmarkqmarkqmarkqmark: {
+	piecadevoummit: {
 		tier: "LC",
 	},
 	piecadelibird: {
@@ -8294,6 +8300,9 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecacrownkleptritter: {
 		tier: "LC",
 	},
+	piecaeternalfaekleptritter: {
+		tier: "LC",
+	},
 	piecapiecangible: {
 		tier: "LC",
 	},
@@ -8324,10 +8333,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecaetittle: {
 		tier: "LC",
 	},
-	piecaparalora: {
+	piecaoculoraformerlyparalora: {
 		tier: "LC",
 	},
-	piecaanthrastial: {
+	piecaexalaxyformerlyanthrastial: {
 		tier: "LC",
 	},
 	piecavesula: {
@@ -8354,7 +8363,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	piecaforcedbondspirink: {
 		tier: "LC",
 	},
-	piecaleivura: {
+	piecavituruformerlyleivura: {
 		tier: "LC",
 	},
 };
