@@ -82,7 +82,10 @@ Main's SSL deploy script from Let's Encrypt looks like:
  *   know what you are doing
  * @type {false | string[]}.
  */
-exports.proxyip = false;
+ // edited by neo, this range includes cloudflare for tunneling (the 2nd value at 104)
+ // the list for these is from 104.16.0.0 to 104.31.255.255 (according to proxies.csv
+ // which looked to be accurate in my testing)
+exports.proxyip = ['127.0.0.1','104.16.0.0/19','::1'];//false;
 
 // subprocesses - the number of child processes to use for various tasks.
 //   Can be set to `0` instead of `{...}` to stop using subprocesses, if you're running out of RAM.
@@ -188,7 +191,9 @@ exports.crashguard = true;
  *   This is the URL of the user database and ladder mentioned earlier.
  *   Don't change this setting - there aren't any other login servers right now
  */
-exports.loginserver = 'http://play.pokemonshowdown.com/';
+//exports.loginserver = 'http://play.pokemonshowdown.com/';
+// edited by neo
+exports.loginserver = '/play.pokemonshowdown.com/';
 exports.loginserverkeyalgo = "RSA-SHA1";
 exports.loginserverpublickeyid = 4;
 exports.loginserverpublickey = `-----BEGIN PUBLIC KEY-----
@@ -213,7 +218,9 @@ Y929lRybWEiKUr+4Yw2O1W0CAwEAAQ==
  */
 exports.routes = {
 	root: 'pokemonshowdown.com',
-	client: 'play.pokemonshowdown.com',
+	//client: 'play.pokemonshowdown.com',
+	// edited by neo
+	client: '10.0.0.22:8080/play.pokemonshowdown.com',
 	dex: 'dex.pokemonshowdown.com',
 	replays: 'replay.pokemonshowdown.com',
 };
